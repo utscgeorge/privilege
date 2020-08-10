@@ -1,2 +1,2 @@
 # privilege
-privilege demo and project
+privilege demo and project-springsecurity
